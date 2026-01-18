@@ -30,7 +30,7 @@ You can upload your CSV or Excel file, handle missing values, remove duplicates,
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/Ismat-stack/data-cleaner.git
+   git clone https://github.com/ismat-data/data-cleaner.git
    cd data-cleaner
    ```
 
@@ -123,4 +123,4 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 **Khan Ismat**
 
-🔗 [GitHub](https://github.com/Ismat-stack)
+🔗 [ismat-data](https://github.com/ismat-data)
